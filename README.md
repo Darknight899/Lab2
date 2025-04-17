@@ -1,1 +1,1 @@
-# Lab2
+# This lab report consists of exploring student data and their demogrpahic features as independent variables to help predict their final grades. It was attempted through Jupyer Notebooks in python with the support of many imported libraries. This report is an interesting study yet learning curve for me personally. 
